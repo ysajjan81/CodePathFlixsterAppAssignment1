@@ -1,6 +1,6 @@
 # Project 1 - *Flicks App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Flicks** is an android app that allows user to view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API
 
 Submitted by: **Sajjan Kumar**
 
