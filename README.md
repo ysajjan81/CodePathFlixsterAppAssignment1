@@ -1,6 +1,6 @@
 # Project 1 - *Flicks App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Flicks** is an android app that allows user to view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API
 
 Submitted by: **Sajjan Kumar**
 
@@ -10,17 +10,10 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [X] User can **view a list of todo items**
-* [X] User can **successfully add and remove items** from the todo list
-* [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [X] Networking and parsing JSON.
+* [X] Recyclerview implementation.
+* [X] Handle cases for protrait and landscape modes.
 
-The following **optional** features are implemented:
-
-* [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -33,7 +26,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I have used different version of android studio. If we use pallete window to drag and drop elements it drops each elements at the beginning of parent layout.
+Using different version of recycler view behaves differently. I had to figure out the error. 
+
+Different api level behave differently.
 
 ## License
 
