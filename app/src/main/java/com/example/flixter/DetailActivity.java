@@ -72,7 +72,6 @@ public class DetailActivity extends YouTubeBaseActivity {
 
             }
         });
-
     }
 
     private void initializeYoutube(final String youtubeKey) {
